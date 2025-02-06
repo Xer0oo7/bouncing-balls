@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: url('skybg.jpg') no-repeat center center fixed;
+    background: url('sky.jpg') no-repeat center center fixed;
     background-size: cover;
     font-family: 'Arial', sans-serif;
 }
